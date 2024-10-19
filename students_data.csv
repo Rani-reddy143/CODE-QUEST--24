@@ -1,0 +1,27 @@
+Student Id,Name,Gender,Branch,Year of Study,Grade,Attendance Percentage,Days Missed,Health Report,Current Year,Financial Information,Feedback
+S001,Aarav Singh,Male,Computer Science,2,A,85,10,2023-03-10 to 2023-03-15,2024,Good,OK
+S002,Ishika Gupta,Female,Mechanical,3,B,78,20,2023-06-05 to 2023-06-10,2024,Struggling,Better
+S003,Vihan Sharma,Male,Electrical,1,C,65,30,2023-08-01 to 2023-08-07,2024,Moderate,Worse
+S004,Aditi Patil,Female,Civil,4,A,92,5,2023-09-10 to 2023-09-12,2024,Good,Good
+S005,Pranav Verma,Male,Information Technology,3,C,60,40,2023-02-20 to 2023-02-28,2024,Struggling,Bad
+S006,Riya Mehta,Female,Electronics,2,B,80,15,2023-04-10 to 2023-04-14,2024,Moderate,Poor
+S007,Aman Raj,Male,Chemical,4,A,95,3,2023-05-05 to 2023-05-07,2024,Good,Good
+S008,Sana Khan,Female,Computer Science,1,B,88,7,2023-03-15 to 2023-03-17,2024,Struggling,Better
+S009,Aryan Iyer,Male,Mechanical,2,D,55,45,2023-01-10 to 2023-01-20,2024,Struggling,Worse
+S010,Kavya Nair,Female,Electrical,3,A,90,8,2023-04-20 to 2023-04-24,2024,Good,OK
+S011,Rohan Bhatt,Male,Civil,1,C,65,35,2023-07-15 to 2023-07-20,2024,Moderate,Bad
+S012,Isha Joshi,Female,Information Technology,4,A,82,18,2023-06-01 to 2023-06-05,2024,Good,Better
+S013,Dev Patel,Male,Electronics,3,B,76,22,2023-05-10 to 2023-05-14,2024,Moderate,OK
+S014,Tanya Bansal,Female,Chemical,2,D,58,42,2023-09-01 to 2023-09-10,2024,Struggling,Poor
+S015,Manav Aggarwal,Male,Computer Science,4,A,93,4,2023-03-05 to 2023-03-07,2024,Good,Good
+S016,Nidhi Kapoor,Female,Mechanical,1,C,62,33,2023-04-05 to 2023-04-12,2024,Moderate,Bad
+S017,Anshul Sinha,Male,Electrical,2,B,85,10,2023-06-15 to 2023-06-18,2024,Good,Better
+S018,Maya Rao,Female,Civil,3,A,92,6,2023-07-10 to 2023-07-12,2024,Good,Good
+S019,Neeraj Deshmukh,Male,Information Technology,1,C,68,25,2023-08-01 to 2023-08-05,2024,Moderate,Poor
+S020,Parul Malhotra,Female,Electronics,4,A,90,8,2023-02-15 to 2023-02-18,2024,Good,OK
+S021,Rahul Chauhan,Male,Chemical,3,C,60,38,2023-03-20 to 2023-03-25,2024,Struggling,Bad
+S022,Swara Dixit,Female,Computer Science,2,A,88,12,2023-05-01 to 2023-05-05,2024,Good,Better
+S023,Ved Prakash,Male,Mechanical,4,B,80,15,2023-06-10 to 2023-06-15,2024,Moderate,OK
+S024,Aleena Reddy,Female,Electrical,3,A,92,6,2023-07-20 to 2023-07-24,2024,Good,Good
+S025,Harsh Chawla,Male,Civil,1,D,57,45,2023-09-05 to 2023-09-12,2024,Struggling,Worse
+s026,Akhil,Male,Data Science,1,A,97,3,9/1/2023,2024,good,Better
